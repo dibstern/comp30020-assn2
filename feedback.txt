@@ -1,0 +1,45 @@
+Please find enclosed your project listing annotated with comments
+about coding style.
+
+In summary, you received 70.000000 / 70 possible points for correctness
+and quality of guesses (the objecteive assessment), and 29 / 30
+marks for code quality.  Your submission was 0 hours late,
+with an extension of 0 hours, incurring a penalty of 0%.
+This all gives you
+
+    99.000000%
+
+for this project.  This will be scaled to the value of the project.
+
+We assessed your code quality according to these criteria, leading to
+your 29 / 30 marks for code quality:
+
+  5 / 5  Quality of file-level documentation, including authorship
+
+  5 / 5  Quality of predicate-level documentation
+
+  5 / 5  Readability of code (lines not wrapped, good, consistent
+         layout)
+
+  4 / 5  Understandability of code (good choice of names,
+         no redundant comments, well organised)
+
+  5 / 5  Appropriate abstraction (no chunks of repeated code; no
+         really long clauses, good types
+
+  5 / 5  Good use of logic programming paradigm
+
+These assessments reflect the annotations in the accompanying program
+listing.
+
+Each of these criteria was assessed on this 0-5 scale:
+
+    5 = practically flawless
+    4 = very good, but not perfect
+    3 = passable, but not great
+    2 = unsatisfactory, but on the right track
+    1 = very poor
+    0 = no effort
+
+
+- Peter, Les, and the team

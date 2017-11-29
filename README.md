@@ -64,5 +64,7 @@ solution."
 
 # Results
 Final Mark: 99.00%
+
 Correctness: 70/70 || Code style: 29/30
+
 See feedback.txt for a full description of the results.
